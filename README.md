@@ -4,12 +4,10 @@ This repository contains my learning journey as I follow a tutorial to build a *
 
 ## Table of Contents
 
-- [Track Calorie App - Learning OOP Project](#track-calorie-app---learning-oop-project)
-  - [Table of Contents](#table-of-contents)
-  - [UI Theme Setup](#ui-theme-setup)
-  - [Project Planning \& Diagram](#project-planning--diagram)
-  - [Key Features and Steps](#key-features-and-steps)
-  - [Local Storage Features](#local-storage-features)
+[UI Theme Setup](#ui-theme-setup)
+[Project Planning \& Diagram](#project-planning--diagram)
+[Key Features and Steps](#key-features-and-steps)
+[Local Storage Features](#local-storage-features)
 
 ---
 
