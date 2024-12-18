@@ -2,15 +2,6 @@
 
 This repository contains my learning journey as I follow a tutorial to build a **Track Calorie App**. The project is developed using **Object-Oriented Programming (OOP)** principles, and it focuses on creating a calorie tracker with a user-friendly interface and persistent storage functionality.
 
-## Table of Contents
-
-[UI Theme Setup](#ui-theme-setup)
-[Project Planning \& Diagram](#project-planning--diagram)
-[Key Features and Steps](#key-features-and-steps)
-[Local Storage Features](#local-storage-features)
-
----
-
 ## UI Theme Setup
 
 Setting up a clean and responsive user interface (UI) to provide a seamless user experience.
